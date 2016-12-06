@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_mobile_home_page_collection_m2m_home_page">
+    <sys_ui_mobile_home_page_collection_m2m_home_page action="INSERT_OR_UPDATE">
+        <collection display_value="SKO Mobile App">d59835eedb57ee0085c45404ce9619f7</collection>
+        <home_page display_value="Services">641843c9db67e200406ade01ce961987</home_page>
+        <order>40</order>
+        <sys_class_name>sys_ui_mobile_home_page_collection_m2m_home_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-06 02:39:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8a2883c9db67e200406ade01ce96192a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Services.SKO Mobile App</sys_name>
+        <sys_package display_value="SKO Mobile App" source="x_snc_sko_mobile_a">e2767d6edb57ee0085c45404ce961928</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SKO Mobile App">e2767d6edb57ee0085c45404ce961928</sys_scope>
+        <sys_update_name>sys_ui_mobile_home_page_collection_m2m_home_page_8a2883c9db67e200406ade01ce96192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-06 02:42:07</sys_updated_on>
+    </sys_ui_mobile_home_page_collection_m2m_home_page>
+</record_update>

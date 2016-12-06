@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_mobile_theme">
+    <sys_ui_mobile_theme action="INSERT_OR_UPDATE">
+        <accent_color/>
+        <base_theme>default</base_theme>
+        <name>SKO</name>
+        <navigation_accent_color/>
+        <navigation_bar_color/>
+        <navigation_bar_title>SKO Mobile App</navigation_bar_title>
+        <navigation_title_color/>
+        <sys_class_name>sys_ui_mobile_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-28 02:54:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>15be71a2db97ee0085c45404ce961903</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SKO Mobile App</sys_name>
+        <sys_package display_value="SKO Mobile App" source="x_snc_sko_mobile_a">e2767d6edb57ee0085c45404ce961928</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SKO Mobile App">e2767d6edb57ee0085c45404ce961928</sys_scope>
+        <sys_update_name>sys_ui_mobile_theme_15be71a2db97ee0085c45404ce961903</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-28 02:54:29</sys_updated_on>
+        <title_image/>
+        <toolbar_accent_color/>
+        <toolbar_color/>
+    </sys_ui_mobile_theme>
+</record_update>

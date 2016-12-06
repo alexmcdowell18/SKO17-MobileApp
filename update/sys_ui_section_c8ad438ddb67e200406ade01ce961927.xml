@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="c8ad438ddb67e200406ade01ce961927" sys_domain="global" table="sys_ui_mobile_home_page_section" version="3" view="sko_mobile">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>24ad438ddb67e200406ade01ce961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>a4ad438ddb67e200406ade01ce961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hide_title</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>28ad438ddb67e200406ade01ce961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>module_style</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>a8ad438ddb67e200406ade01ce961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>2cad438ddb67e200406ade01ce961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>acad438ddb67e200406ade01ce961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>20ad438ddb67e200406ade01ce961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>roles</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>a0ad438ddb67e200406ade01ce961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:39</sys_created_on>
+            <sys_id>24ad438ddb67e200406ade01ce961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_mobile_home_page_section" sys_domain="global" view="c97d4f4ddb67e200406ade01ce961925">c8ad438ddb67e200406ade01ce961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:39</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_ui_mobile_home_page_section</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-06 03:03:37</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8ad438ddb67e200406ade01ce961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_ui_mobile_home_page_section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SKO Mobile App" source="x_snc_sko_mobile_a">e2767d6edb57ee0085c45404ce961928</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SKO Mobile App">e2767d6edb57ee0085c45404ce961928</sys_scope>
+            <sys_update_name>sys_ui_section_c8ad438ddb67e200406ade01ce961927</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-06 03:03:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="SKO Mobile" name="sko_mobile">c97d4f4ddb67e200406ade01ce961925</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

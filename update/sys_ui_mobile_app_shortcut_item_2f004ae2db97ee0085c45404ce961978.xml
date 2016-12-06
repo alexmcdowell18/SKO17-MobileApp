@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_mobile_app_shortcut_item">
+    <sys_ui_mobile_app_shortcut_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <icon>add</icon>
+        <module display_value="Connect Chat">bb8c9eed9f912200804fbd2e052e7025</module>
+        <order>0</order>
+        <roles/>
+        <subtitle>test</subtitle>
+        <sys_class_name>sys_ui_mobile_app_shortcut_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-28 03:00:06</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2f004ae2db97ee0085c45404ce961978</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="SKO Mobile App" source="x_snc_sko_mobile_a">e2767d6edb57ee0085c45404ce961928</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SKO Mobile App">e2767d6edb57ee0085c45404ce961928</sys_scope>
+        <sys_update_name>sys_ui_mobile_app_shortcut_item_2f004ae2db97ee0085c45404ce961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-28 03:00:12</sys_updated_on>
+        <title>Test</title>
+    </sys_ui_mobile_app_shortcut_item>
+</record_update>
